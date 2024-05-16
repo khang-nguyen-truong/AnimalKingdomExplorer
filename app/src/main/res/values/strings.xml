@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Animal Kingdom</string>
+
+    <string name="animal_details">Animal Details</string>
+    <string name="species_details">Species Details</string>
+
+    <string name="add_icon">Add icon</string>
+
+    <string name="add_animal">Add Animal</string>
+    <string name="animal_name">Animal Name</string>
+    <string name="habitat">Habitat</string>
+    <string name="diet">Diet</string>
+
+    <string name="add_species">Add Species</string>
+    <string name="species_name">Species Name</string>
+    <string name="species_description">Species Description</string>
+
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
